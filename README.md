@@ -1,4 +1,4 @@
-# Nodemailer-Redis
+# nodemailer-redis
 Nodemailer Consumer for Redis Queue
 
 	1. The 'configAuth' file contains the credentials for the sender's email
